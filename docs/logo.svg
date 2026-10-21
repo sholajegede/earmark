@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" width="72" height="72" role="img" aria-label="Earmark">
+  <rect width="72" height="72" rx="16" fill="#d896ff" stroke="#000" stroke-width="3"/>
+  <path d="M20 14h22l10 10v34H20z" fill="#ede1d0" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M42 14v10h10z" fill="#fff387" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M27 38h18M27 46h12" stroke="#000" stroke-width="3.5" stroke-linecap="round"/>
+</svg>
